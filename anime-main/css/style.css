@@ -1994,7 +1994,82 @@ ol {
 .footer__copyright__text a {
 	color: #e53637;
 }
+.heading{
+	text-align: center;
+	color: rgba(245, 222, 179, 0.541);
+}
+.ideas{
+	color: rgba(245, 222, 179, 0.541);
+}
 
+.form{
+	text-align: center;
+	margin-top: 20px;
+	padding: 10px 10px;
+}
+.name{
+	text-align: center;
+	color: #0372b1;
+	border-radius: 5px;
+	background-color: rgba(245, 222, 179, 0.541);
+	border: #0372b1;
+	font-family: 'Times New Roman', Times, serif;
+	padding: 5px 20px;
+}
+.email{
+	text-align: center;
+	margin: 5px;
+	border-radius: 5px;
+	background-color: rgba(245, 222, 179, 0.541);
+	border: #0372b1;
+	color: #0372b1;
+	font-family:'Times New Roman', Times, serif;
+	padding: 5px 20px;
+}
+.submit{
+	text-align: center;
+	/* margin: 5px; */
+	border-radius: 5px;
+	background-color: rgba(245, 222, 179, 0.541);
+	border: #0372b1;
+	color: #0372b1;
+	font-family: 'Times New Roman', Times, serif;
+
+}
+.textarea{
+	text-align: center;
+	color: #0372b1;
+	border-radius: 5px;
+	background-color:rgba(245, 222, 179, 0.541);
+	border: #0372b1;
+	font-family: 'Times New Roman', Times, serif;
+	padding: 5px 20px;
+
+}
+.n{
+	color: white;
+}
+.e{
+	color: white;
+}
+.m{
+	color: white;
+}
+.submit:hover{
+	background-color: #000000;
+}
+.keep{
+	color: white;
+	text-align: left;
+}
+.updated{
+	color: rgba(245, 222, 179, 0.541);
+	text-align: left;
+}
+.response{
+	color: #0372b1;
+	text-align: left;
+}
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 
 @media only screen and (min-width: 1200px) and (max-width: 1300px) {
