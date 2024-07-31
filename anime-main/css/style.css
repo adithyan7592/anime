@@ -2070,6 +2070,15 @@ ol {
 	color: #0372b1;
 	text-align: left;
 }
+h5.naruto:hover{
+	background-color: #0372b1;
+}
+h5.aoashi:hover{
+	background-color: #0372b1;
+}
+h5.bluelock:hover{
+	background-color: #0372b1;
+}
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 
 @media only screen and (min-width: 1200px) and (max-width: 1300px) {
